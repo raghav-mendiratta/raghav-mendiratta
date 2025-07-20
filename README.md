@@ -31,3 +31,6 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 - 🔧 Creating CLI utilities and Workflow Agents  
 - 🔐 Advancing Ethical Hacking, Cybersecurity Skills and Networking Skills  
 - 🚀 Preparing tools for public launch and developer adoption
+- 🌐 Exploring Django and Flask for scalable web backends
+  
+---
