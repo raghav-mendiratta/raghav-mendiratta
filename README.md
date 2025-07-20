@@ -13,6 +13,8 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 - 🧠 Passionate about building scalable tools that solve real problems.
 - ⚡ I specialize in automation, system scripting, and productizing small, sharp utilities.
 
+---
+
 ### 🧰 Tech Stack
 
 - **Languages**: Python, Bash, JavaScript (Basic)  
@@ -34,3 +36,5 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 - 🌐 Exploring Django and Flask for scalable web backends
   
 ---
+
+<p align="center"> <a href="https://github.com/raghav-mendiratta" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:raghav.mendiratta101@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
