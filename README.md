@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Raghav Mendiratta</h1>
+<p align="center">
+  Automation Engineer | Python Developer | Bash Enthusiast | Systems Hacker
+</p>
 
-<!--
-**raghav-mendiratta/raghav-mendiratta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer focused on building **real-world tools** using Python, Bash, and JavaScript. I specialize in automation, system scripting, and productizing small, sharp utilities for developers and businesses. I work fast, think sharp, and ship clean.
+
+---
+
+### 🧰 Tech Stack
+
+```text
+Languages: Python, Bash, JavaScript  
+Tools: Make.com, Git, Linux (Fedora, Kali), PyQt6  
+Domains: Automation, CLI Tools, AI Workflows, Ethical Hacking
