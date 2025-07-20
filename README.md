@@ -34,7 +34,12 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
    <img src="https://img.shields.io/badge/TTY-000000?style=for-the-badge&logo=linux&logoColor=white"/> 
   </p>
   
-- **Operating Systems**: Fedora Linux, Kali Linux  
+- **Operating Systems**: Fedora Linux, Kali Linux
+  <p>
+   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  </p>
+  
 - **Core Focus Areas**:
   - 🧩 Python for Automation, Parsing & API Integrations  
   - 🤖 AI Workflow Automation
