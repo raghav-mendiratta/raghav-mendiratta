@@ -20,18 +20,18 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 
 - **Languages**: Python, Bash, JavaScript (Basic)
  <p>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> |
-   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/> |
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
  </p>
  
 - **Frameworks/Tools**: Make.com, Git, VS Code, Nvim, Linux TTY
   <p>
-   <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
-   <img src="https://img.shields.io/badge/TTY-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/TTY-000000?style=for-the-badge&logo=linux&logoColor=white"/> 
   </p>
   
 - **Operating Systems**: Fedora Linux, Kali Linux  
