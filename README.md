@@ -9,14 +9,14 @@
 
 I'm a developer focused on building **real-world tools** using Python and Bash. 
 - 🧠 Passionate about building scalable tools that solve real problems.
-- ⚡ I specialize in automation, system scripting, and productizing small, sharp utilities for developers and businesses.
+- ⚡ I specialize in automation, system scripting, and productizing small, sharp utilities.
 
 ---
 
 ### 🧰 Tech Stack
 
 - **Languages**: Python, Bash, JavaScript (Basic)  
-- **Frameworks/Tools**: Make.com, Git, VS Code, Nvim, TTY (Teletypewriter)
+- **Frameworks/Tools**: Make.com, Git, VS Code, Nvim, Linux TTY (Teletypewriter)
 - **Operating Systems**: Fedora Linux, Kali Linux  
 - **Core Focus Areas**:
   - 🧩 Python for Automation, Parsing & API Integrations  
