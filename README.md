@@ -12,7 +12,7 @@
 I'm a developer focused on building **real-world tools** using Python and Bash. 
 - 🧠 Passionate about building scalable tools that solve real problems.
 - ⚡ I specialize in automation, system scripting, and productizing small, sharp utilities.
-- Love to stack skill
+- 📊 Love to stack real value skill's so that I can create somthing valuable
 
 ---
 
