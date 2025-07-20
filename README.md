@@ -1,8 +1,12 @@
 <h1 align="center">
   <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Hi!" width="40" style="vertical-align: middle;"> 
   Hey, I'm Raghav Mendiratta
-    <h2 align="center">
+</h1>
+
+<h2 align="center">
       🐍 Python Developer • 📃 Bash Enthusiast • ⚙️ Automation 
+</h2>
+
 </p>
 
 ---
@@ -18,7 +22,7 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 ### 🧰 Tech Stack
 
 - **Languages**: Python, Bash, JavaScript (Basic)  
-- **Frameworks/Tools**: Make.com, Git, VS Code, Nvim, Linux TTY (Teletypewriter)
+- **Frameworks/Tools**: Make.com, Git, VS Code, Nvim, Linux TTY
 - **Operating Systems**: Fedora Linux, Kali Linux  
 - **Core Focus Areas**:
   - 🧩 Python for Automation, Parsing & API Integrations  
