@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Raghav Mendiratta</h1>
 <p align="center">
-   ⚙️ Automation Engineer • 🐍 Python Developer • 📃 Bash Enthusiast
+    🐍 Python Developer • 📃 Bash Enthusiast • ⚙️ Automation 
 </p>
 
 ---
@@ -16,7 +16,7 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 ### 🧰 Tech Stack
 
 - **Languages**: Python, Bash, JavaScript (Basic)  
-- **Frameworks/Tools**: Make.com, Git, VS Code  
+- **Frameworks/Tools**: Make.com, Git, VS Code, Nvim, TTY  
 - **Operating Systems**: Fedora Linux, Kali Linux  
 - **Core Focus Areas**:
   - CLI & GUI Tool Development  
