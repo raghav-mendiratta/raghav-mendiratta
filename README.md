@@ -19,9 +19,9 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 - **Frameworks/Tools**: Make.com, Git, VS Code, Nvim, TTY  
 - **Operating Systems**: Fedora Linux, Kali Linux  
 - **Core Focus Areas**:
-  - CLI & GUI Tool Development  
-  - AI Workflow Automation
-  - System-Level Scripting
+  - 🧩 Python for Automation, Parsing & API Integrations  
+  - 🤖 AI Workflow Automation
+  - 🔐 System-Level Scripting
     
 ---
 
