@@ -16,7 +16,7 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 ### 🧰 Tech Stack
 
 - **Languages**: Python, Bash, JavaScript (Basic)  
-- **Frameworks/Tools**: Make.com, Git, VS Code, Nvim, TTY  
+- **Frameworks/Tools**: Make.com, Git, VS Code, Nvim, TTY (Teletypewriter)
 - **Operating Systems**: Fedora Linux, Kali Linux  
 - **Core Focus Areas**:
   - 🧩 Python for Automation, Parsing & API Integrations  
@@ -29,5 +29,5 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 
 - ⌨️ Building open-source productivity tools using Python & Bash  
 - 🔧 Creating CLI utilities and Workflow Agents  
-- 🔐 Advancing Ethical Hacking, Cybersecurity Skills and Netwroking Skills  
+- 🔐 Advancing Ethical Hacking, Cybersecurity Skills and Networking Skills  
 - 🚀 Preparing tools for public launch and developer adoption
