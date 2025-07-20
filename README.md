@@ -1,4 +1,4 @@
-<h1 align="center">Raghav Mendiratta</h1>
+<h1 align="center">Hey, I'm Raghav Mendiratta</h1>
 <p align="center">
    Automation Engineer • Python Developer • Bash Enthusiast • Systems Hacker
 </p>
