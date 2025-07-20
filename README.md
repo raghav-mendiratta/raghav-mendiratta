@@ -16,14 +16,16 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
 
 ### 🧰 Tech Stack
 
-- **Languages**: Python, Bash, JavaScript  
+- **Languages**: Python, Bash, JavaScript (Basic)  
 - **Frameworks/Tools**: PyQt6, Make.com, Git, VS Code  
 - **Operating Systems**: Fedora Linux, Kali Linux  
 - **Core Focus Areas**:
   - CLI & GUI Tool Development  
   - AI Workflow Automation
-  - Ethical Hacking & Red Teaming
   - System-Level Scripting
+    
+---
+
 ```text
 Languages: Python, Bash, JavaScript (Basic)  
 Tools: Make.com, Git, Linux (Fedora, Kali)  
