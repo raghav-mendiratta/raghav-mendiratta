@@ -24,6 +24,8 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
    <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/> 
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
   </p>
+
+    ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
 - **Frameworks/Tools**: Make.com, Git, VS Code, Neovim, Linux TTY
   <p>
