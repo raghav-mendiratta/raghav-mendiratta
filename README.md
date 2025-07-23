@@ -37,13 +37,15 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
    ![n8n](https://img.shields.io/badge/n8n-A92EFF?style=for-the-badge&logo=n8n&logoColor=white)
     
 - **Operating Systems**: Fedora Linux, Kali Linux
+
+   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+  
   <p>
-   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
    <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   </p>
   
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+ 
   
 - **Core Focus Areas**:
   - 🧩 Python for Automation, Parsing & API Integrations  
