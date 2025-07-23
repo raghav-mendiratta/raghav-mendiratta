@@ -32,20 +32,16 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
    <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> 
    <img src="https://img.shields.io/badge/TTY-000000?style=for-the-badge&logo=linux&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/n8n-A92EFF?style=for-the-badge&logo=n8n&logoColor=white"/>
   </p>
-
-   ![n8n](https://img.shields.io/badge/n8n-A92EFF?style=for-the-badge&logo=n8n&logoColor=white)
-    
+ 
 - **Operating Systems**: Fedora Linux, Kali Linux
 
-   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-  
   <p>
+   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
    <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </p>
-  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- 
   
 - **Core Focus Areas**:
   - 🧩 Python for Automation, Parsing & API Integrations  
