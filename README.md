@@ -24,25 +24,6 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
    <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/> 
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
   </p>
-
-    ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-    ![Make.com](https://img.shields.io/badge/Make.com-Automation-blueviolet?style=for-the-badge)
-    ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-    ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-    ![n8n](https://img.shields.io/badge/n8n-A92EFF?style=for-the-badge&logo=n8n&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-    ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-    ![Automation](https://img.shields.io/badge/Automation-Powered%20By%20BOSS-ff69b4?style=for-the-badge)
-    ![AI](https://img.shields.io/badge/AI%20Tools-GPT%2FWhisper-blueviolet?style=for-the-badge)
-    ![War Plan](https://img.shields.io/badge/War%20Plan-On%20Fire-red?style=for-the-badge&logo=codio)
-    ![Builder](https://img.shields.io/badge/Builder-Daily%20Projects-green?style=for-the-badge&logo=buildkite)
-
  
 - **Frameworks/Tools**: Make.com, Git, VS Code, Neovim, Linux TTY
   <p>
@@ -52,12 +33,17 @@ I'm a developer focused on building **real-world tools** using Python and Bash.
    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> 
    <img src="https://img.shields.io/badge/TTY-000000?style=for-the-badge&logo=linux&logoColor=white"/> 
   </p>
-  
+
+   ![n8n](https://img.shields.io/badge/n8n-A92EFF?style=for-the-badge&logo=n8n&logoColor=white)
+    
 - **Operating Systems**: Fedora Linux, Kali Linux
   <p>
    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
    <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   </p>
+  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
   
 - **Core Focus Areas**:
   - 🧩 Python for Automation, Parsing & API Integrations  
